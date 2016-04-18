@@ -43,6 +43,6 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 1. We require both reshape2 and data.table libraries
 2. Load both the test data and train data
 3. Load both the feature label and activity label
-4. After that, we xtract  mean and standard deviation column names and data
+4. After that, we extract  mean and standard deviation column names and data
 5. Process the data; this products two parts namely processing test and train data respectively
 6. Merge the resulting data set to give a final output
