@@ -24,7 +24,7 @@
 
 2. Put run_analysis.R in the parent folder of UCI HAR Dataset, set this as your working directory using the setwd() function in RStudio.
 
-3. Run source("run_analysis.R"), to generate a new file tiny_data.txt in your working directory.
+3. Run source("run_analysis.R"), to generate a new file tinydata.txt in your working directory.
 
 
 
